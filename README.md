@@ -1,5 +1,5 @@
 # NBRBCurrencies
-Download official currencies rates from NBRB
+Download official currencies rates from NBRB (used [API](https://www.nbrb.by/apihelp/exrates))
 
 Use command
 
